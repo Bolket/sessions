@@ -1,11 +1,11 @@
-package mongo-official
+package mongofficial
 
 import (
 	"context"
 	"testing"
 
-	"github.com/sarovin/sessions"
-	"github.com/sarovin/sessions/tester"
+	"github.com/bolket/sessions"
+	"github.com/bolket/sessions/tester"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )

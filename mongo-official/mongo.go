@@ -1,9 +1,9 @@
-package mongo-official
+package mongofficial
 
 import (
 	"github.com/bolket/mongostore"
-	gsessions "github.com/gorilla/sessions"
 	"github.com/bolket/sessions"
+	gsessions "github.com/gorilla/sessions"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
